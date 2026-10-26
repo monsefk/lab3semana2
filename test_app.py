@@ -11,7 +11,3 @@ def test_sumar_negativos():
 
 def test_sumar_cero():
     assert sumar(0, 5) == 5
-
-
-def test_falla():
-    assert False
